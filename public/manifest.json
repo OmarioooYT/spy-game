@@ -1,0 +1,22 @@
+{
+  "name": "لعبة الجاسوس - Spy Game",
+  "short_name": "الجاسوس",
+  "description": "لعبة جماعية ممتعة للكشف عن الجاسوس بينكم.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#22c55e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://picsum.photos/id/237/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/id/237/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
